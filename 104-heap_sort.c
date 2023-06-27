@@ -51,7 +51,7 @@ void make_heap(int *array, size_t size)
 }
 
 /**
-* heap_sort - sorting an_array of ints in ascending_order w/ 
+* heap_sort - sorting an_array of ints in ascending_order w/
 * the Heap_sort algo
 * @array: array_to_sort
 * @size:the  size_of the_array
